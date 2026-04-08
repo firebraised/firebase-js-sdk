@@ -43,7 +43,7 @@
     "@firebase/util": "1.14.0",
     "@firebase/component": "0.7.1",
     "tslib": "^2.1.0",
-    "web-vitals": "^4.2.4"
+    "web-vitals": "^5.2.0"
   },
   "license": "Apache-2.0",
   "devDependencies": {
